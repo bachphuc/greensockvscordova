@@ -1,2 +1,0 @@
-D:\htdocs\mobile\greensock\platforms\android\build\intermediates\classes\debug
-D:\htdocs\mobile\greensock\platforms\android\build\intermediates\pre-dexed\debug\classes-0864de2153055ab9f036ae9cd4871fe3ceac150d.jar
